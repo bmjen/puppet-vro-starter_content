@@ -11,18 +11,18 @@ forge "https://forgeapi.puppetlabs.com"
 
 # Forge Modules from Puppet
 
-mod 'puppetlabs-apache', '1.10.0'
-mod 'puppetlabs-chocolatey', '2.0.0'
-mod 'puppetlabs-mysql', '3.10.0'
-mod 'puppetlabs-stdlib', '4.12.0'
-mod 'puppetlabs-concat', '2.2.0'
-mod 'puppetlabs-powershell', '1.0.6'
-mod 'puppetlabs-registry', '1.1.3'
-mod 'puppetlabs-puppetserver_gem', '0.2.0'
+mod 'puppetlabs-apache', '5.5.0'
+mod 'puppetlabs-chocolatey', '5.0.2'
+mod 'puppetlabs-mysql', '10.6.0'
+mod 'puppetlabs-stdlib', '6.3.0'
+mod 'puppetlabs-concat', '6.2.0'
+mod 'puppetlabs-powershell', '4.4.0'
+mod 'puppetlabs-registry', '3.1.0'
+mod 'puppetlabs-puppetserver_gem', '1.1.1'
 
 # Forge Community Modules
 
-mod 'crayfishx-firewalld', '3.1.4'
+mod 'puppet-firewalld', '4.3.0'
 mod 'puppet-iis', '2.0.2'
 mod 'puppet-staging', '2.0.1'
 mod 'puppet-windows_firewall', '1.0.3'
